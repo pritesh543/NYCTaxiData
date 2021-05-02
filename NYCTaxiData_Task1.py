@@ -14,7 +14,7 @@ month = args[2]
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="root",
+  password="kty3<2og2xq5J",
   database="nyc_database"
 )
 
